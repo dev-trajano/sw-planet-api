@@ -1,4 +1,4 @@
-package com.example.swplanetapi.repository;
+package com.example.swplanetapi.domain;
 
 import org.springframework.data.repository.CrudRepository;
 

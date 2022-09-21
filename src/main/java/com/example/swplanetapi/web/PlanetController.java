@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.example.swplanetapi.domain.Planet;
-import com.example.swplanetapi.services.PlanetService;
+import com.example.swplanetapi.domain.PlanetService;
 
 @RestController
 @RequestMapping("/planets")
