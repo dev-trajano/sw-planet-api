@@ -10,4 +10,5 @@ public class SwPlanetApiApplication {
 		SpringApplication.run(SwPlanetApiApplication.class, args);
 	}
 
+	// teste git
 }
