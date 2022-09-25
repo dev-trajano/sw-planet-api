@@ -19,6 +19,9 @@ public class Planet {
   private String climate;
   private String terrain;
 
+  public Planet() {
+  }
+
   public Planet(String climate, String terrain) {
     this.climate = climate;
     this.terrain = terrain;
